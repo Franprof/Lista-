@@ -1,1 +1,1 @@
-# Lista - de material escolar
+# Lista de material escolar - ordenada por prioridade
